@@ -1,0 +1,26 @@
+_repo: Il-Parlamento-Nazionale-Napoletano-per-gli-anni-1820-e-1821-memorie-e-documenti_60085
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Fontanarosa, Vincenzo
+    gutenberg_agent_id: '50784'
+    url: http://www.gutenberg.org/2009/agents/50784
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2019-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60085'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Naples (Kingdom). Parlamento'
+- !lcsh 'Kingdom of the Two Sicilies -- History -- Revolution, 1820-1821'
+- !lcsh 'Naples (Kingdom) -- Politics and government'
+- !lcsh 'Politicians -- Italy -- Naples (Kingdom) -- Biography'
+- GITenberg
+title: 'Il Parlamento Nazionale Napoletano per gli anni 1820 e 1821: memorie e documenti'
+url: http://www.gutenberg.org/ebooks/60085
